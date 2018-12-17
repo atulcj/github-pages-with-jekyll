@@ -1,4 +1,9 @@
-# The Oak & the Reeds
+---
+title: "The Oak & the Reeds"
+date: 2018-12-18
+---
+
+The Oak & the Reeds
 
 A Giant Oak stood near a brook in which grew some slender Reeds. When the wind blew, the great [Oak](https://en.wikipedia.org/wiki/Oak) stood proudly upright with its hundred arms uplifted to the sky. But the [Reeds](https://en.wikipedia.org/wiki/Reed_(plant)) bowed low in the wind and sang a sad and mournful song.
 
